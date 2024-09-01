@@ -1,0 +1,52 @@
+name,age,city,country,purchase_date,product,price
+Alice,30,New York,United States,2023-01-15,Laptop,1000
+Bob,25,Los Angeles,United States,2023-02-20,Phone,800
+Charlie,35,Chicago,United States,2023-03-10,Tablet,500
+David,40,London,United Kingdom,2023-04-05,Headphones,150
+Emily,28,Paris,France,2023-05-12,Watch,300
+Frank,32,Tokyo,Japan,2023-06-18,Camera,700
+Grace,27,Sydney,Australia,2023-07-25,Speaker,200
+Henry,31,Berlin,Germany,2023-08-08,Mouse,50
+Isabella,26,Moscow,Russia,2023-09-12,Keyboard,100
+Jack,33,Rio de Janeiro,Brazil,2023-10-17,Game Console,1200
+Kate,29,Cape Town,South Africa,2023-11-22,VR Headset,800
+Lily,34,Beijing,China,2023-12-28,Smartwatch,400
+Maria,36,Istanbul,Turkey,2024-01-13,Drone,1500
+Noah,24,Seoul,South Korea,2024-02-27,Projector,600
+Olivia,27,Buenos Aires,Argentina,2024-03-16,Fitness Tracker,250
+Paul,33,Delhi,India,2024-04-09,Smart Home Device,350
+Quinn,28,Cairo,Egypt,2024-05-20,E-Reader,100
+Rachel,31,Johannesburg,South Africa,2024-06-25,Action Camera,400
+Sarah,26,Moscow,Russia,2024-07-30,Portable Charger,75
+Thomas,35,Copenhagen,Denmark,2024-08-14,Wireless Earbuds,200
+Ursula,29,Jakarta,Indonesia,2024-09-21,Smart Speaker,150
+Victor,32,Mexico City,Mexico,2024-10-26,Gaming Mouse,80
+Wendy,27,Nairobi,Kenya,2024-11-30,Laptop Bag,50
+Xander,31,Stockholm,Sweden,2024-12-15,External Hard Drive,120
+Yara,25,Bangkok,Thailand,2025-01-19,Fitness Watch,300
+Zara,33,Rome,Italy,2025-02-23,Wireless Keyboard,100
+Alex,28,Madrid,Spain,2025-03-30,Portable Power Bank,60
+Ben,32,Cape Town,South Africa,2025-05-04,Gaming Headset,250
+Chloe,27,Seoul,South Korea,2025-06-08,Smart Thermostat,200
+Daniel,31,Berlin,Germany,2025-07-13,Action Camera,400
+Ethan,26,Moscow,Russia,2025-08-18,Portable Projector,800
+Finn,35,Copenhagen,Denmark,2025-09-22,Wireless Earbuds,200
+Grace,29,Jakarta,Indonesia,2025-10-27,Smart Speaker,150
+Henry,32,Mexico City,Mexico,2025-11-30,Gaming Mouse,80
+Isabella,27,Nairobi,Kenya,2025-12-15,Laptop Bag,50
+Jack,31,Stockholm,Sweden,2026-01-19,External Hard Drive,120
+Kate,25,Bangkok,Thailand,2026-02-23,Fitness Watch,300
+Lily,33,Rome,Italy,2026-03-30,Wireless Keyboard,100
+Maria,28,Madrid,Spain,2026-05-04,Portable Power Bank,60
+Noah,32,Cape Town,South Africa,2026-06-08,Gaming Headset,250
+Olivia,27,Seoul,South Korea,2026-07-13,Smart Thermostat,200
+Paul,31,Berlin,Germany,2026-08-18,Action Camera,400
+Quinn,26,Moscow,Russia,2026-09-22,Portable Projector,800
+Rachel,35,Copenhagen,Denmark,2026-10-27,Wireless Earbuds,200
+Sarah,29,Jakarta,Indonesia,2026-12-01,Smart Speaker,150
+Thomas,32,Mexico City,Mexico,2027-01-05,Gaming Mouse,80
+Ursula,27,Nairobi,Kenya,2027-02-09,Laptop Bag,50
+Victor,31,Stockholm,Sweden,2027-03-15,External Hard Drive,120
+Wendy,25,Bangkok,Thailand,2027-04-19,Fitness Watch,300
+Xander,33,Rome,Italy,2027-05-24,Wireless Keyboard,100
+Yara,28,Madrid,Spain,2027-06-28,Portable Power Bank,60

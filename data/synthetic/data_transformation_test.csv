@@ -1,0 +1,36 @@
+date,opening_price,closing_price,volume,ticker,sector,industry,country,region,revenue,sales
+2023-01-01,100,110,100000,AAPL,Technology,Computer Hardware,United States,North America,1000000,500000
+2023-01-31,110,120,90000,GOOG,Technology,Internet & Software,United States,North America,900000,450000
+2023-02-28,120,100,80000,AMZN,Consumer Cyclical,Internet Retail,United States,North America,800000,400000
+2023-03-31,100,120,110000,FB,Technology,Internet & Software,United States,North America,1100000,550000
+2023-04-30,120,110,120000,MSFT,Technology,Software,United States,North America,1200000,600000
+2023-05-31,110,130,130000,TSLA,Consumer Cyclical,Automotive,United States,North America,1300000,650000
+2023-06-30,130,120,140000,NVDA,Technology,Semiconductors,United States,North America,1400000,700000
+2023-07-31,120,140,150000,JPM,Financials,Banks,United States,North America,1500000,750000
+2023-08-31,140,130,160000,JNJ,Healthcare,Pharmaceuticals,United States,North America,1600000,800000
+2023-09-30,130,150,170000,V,Financials,Credit Services,United States,North America,1700000,850000
+2023-10-31,150,140,180000,PG,Consumer Staples,Food & Beverage,United States,North America,1800000,900000
+2023-11-30,140,160,190000,UNH,Healthcare,Health Insurance,United States,North America,1900000,950000
+2023-12-31,160,150,200000,XOM,Energy,Oil & Gas,United States,North America,2000000,1000000
+2024-01-31,150,170,210000,GOOGL,Technology,Internet & Software,United States,North America,2100000,1050000
+2024-02-29,170,160,220000,AAPL,Technology,Computer Hardware,United States,North America,2200000,1100000
+2024-03-31,160,180,230000,AMZN,Consumer Cyclical,Internet Retail,United States,North America,2300000,1150000
+2024-04-30,180,170,240000,FB,Technology,Internet & Software,United States,North America,2400000,1200000
+2024-05-31,170,190,250000,MSFT,Technology,Software,United States,North America,2500000,1250000
+2024-06-30,190,180,260000,TSLA,Consumer Cyclical,Automotive,United States,North America,2600000,1300000
+2024-07-31,180,200,270000,NVDA,Technology,Semiconductors,United States,North America,2700000,1350000
+2024-08-31,200,190,280000,JPM,Financials,Banks,United States,North America,2800000,1400000
+2024-09-30,190,210,290000,JNJ,Healthcare,Pharmaceuticals,United States,North America,2900000,1450000
+2024-10-31,210,200,300000,V,Financials,Credit Services,United States,North America,3000000,1500000
+2024-11-30,200,220,310000,PG,Consumer Staples,Food & Beverage,United States,North America,3100000,1550000
+2024-12-31,220,210,320000,UNH,Healthcare,Health Insurance,United States,North America,3200000,1600000
+2025-01-31,210,230,330000,XOM,Energy,Oil & Gas,United States,North America,3300000,1650000
+2025-02-28,230,220,340000,GOOGL,Technology,Internet & Software,United States,North America,3400000,1700000
+2025-03-31,220,240,350000,AAPL,Technology,Computer Hardware,United States,North America,3500000,1750000
+2025-04-30,240,230,360000,AMZN,Consumer Cyclical,Internet Retail,United States,North America,3600000,1800000
+2025-05-31,230,250,370000,FB,Technology,Internet & Software,United States,North America,3700000,1850000
+2025-06-30,250,240,380000,MSFT,Technology,Software,United States,North America,3800000,1900000
+2025-07-31,240,260,390000,TSLA,Consumer Cyclical,Automotive,United States,North America,3900000,1950000
+2025-08-31,260,250,400000,NVDA,Technology,Semiconductors,United States,North America,4000000,2000000
+2025-09-30,250,270,410000,JPM,Financials,Banks,United States,North America,4100000,2050000
+2025-10-31,270,260,420000,JNJ,Healthcare,Pharmaceuticals,United States,North America,4200000,2100000
